@@ -1,16 +1,20 @@
-### Hi there 👋
+<h2 align='center'>
+👋 Hi there! I'm Simon Amador
+</h2>
 
-<!--
-**simonamador/simonamador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.instagram.com/simonamador02/">Instagram</a> •
+  <a href="https://www.linkedin.com/in/carlos-simon-amador-izaguirre/">LinkedIn</a>
+</p>
 
-Here are some ideas to get you started:
+I'm a 6th semester biomedical engineering student <a href="https://tec.mx/es/profesional?utm_cmpa=0067476&utm_source=google&utm_medium=search&utm_campaign=perf&gad=1&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF3zKb6PnDQjqccn8Plai6GVYy1MXd0YbcaNzC6jdxhQf3cxEKVUgioaAqHTEALw_wcB&gclsrc=aw.ds">@Tec de Monterrey</a> with a deep passion for AI applications on medical signals processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Projects
+- EEG motion imagery classification
+- EEG biomarkers analysis
+- Image processing algorithms
+
+### Currently learning...
+- Text mining
+- NLP algorithms
+- Transformers
