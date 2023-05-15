@@ -17,5 +17,5 @@ I'm a 6th semester biomedical engineering student <a href="https://tec.mx/es/pro
 
 ### Currently learning...
 - Text mining
-- NLP algorithms
+- Recurrent Neural Networks
 - Transformers
