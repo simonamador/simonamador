@@ -18,4 +18,4 @@ I'm a 7th semester biomedical engineering student <a href="https://tec.mx/es/pro
 ### Currently learning...
 - Text mining
 - Transformers
-- Unsupervised training model
+- Unsupervised learning models
