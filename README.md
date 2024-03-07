@@ -2,7 +2,7 @@
 👋 Hi there! I'm Simon Amador
 </h2>
 
-<img src=https://komarev.com/ghpvc/?username=simonamador&color=lightgray />
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=simonamador&color=lightgray />
 
 <p align="center">
   <a href="https://sites.google.com/view/carlossimonamador/">Website</a> •
