@@ -8,17 +8,15 @@
 </p>
 
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=simonamador&color=lightgray />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonamador&color=lightgray&style=for-the-badge" />
 
 I'm a 7th semester biomedical engineering student <a href="https://tec.mx/es/profesional?utm_cmpa=0067476&utm_source=google&utm_medium=search&utm_campaign=perf&gad=1&gclid=Cj0KCQjwu-KiBhCsARIsAPztUF3zKb6PnDQjqccn8Plai6GVYy1MXd0YbcaNzC6jdxhQf3cxEKVUgioaAqHTEALw_wcB&gclsrc=aw.ds">@Tec de Monterrey</a> with a deep passion for AI applications on medical signals processing.
 
 ### Current Projects
-- Anomaly detection algorithm
-- Upsampling segementation algorithm
-- Surface extraction algorithm
-- EEG biomarkers analysis
+- Computer Vision for gamete detection, segmentation & tracking
+- Computer vision for retinopathy severity classification
+- Anomaly detection for fetal MRI
 
 ### Currently learning...
-- Text mining
-- Transformers
-- Unsupervised learning models
+- Network Analysis
+- Cloud Computing
