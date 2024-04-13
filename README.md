@@ -14,6 +14,7 @@ I'm a last semester biomedical engineering student <a href="https://tec.mx/es">@
 
 ### Current Projects
 - Computer vision for gamete detection, segmentation & tracking
+- LLM applications on psychometric evaluations
 - Computer vision for retinopathy severity classification
 - Anomaly detection for fetal MRI
 
