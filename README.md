@@ -13,7 +13,6 @@
 I'm a last semester biomedical engineering student <a href="https://tec.mx/es">@Tec de Monterrey</a> with a deep passion for AI applications on medical signals processing.
 
 ### Current Projects
-- Computer vision for gamete detection, segmentation & tracking
 - LLM applications on psychometric evaluations
 - Computer vision for retinopathy severity classification
 - Anomaly detection for fetal MRI
