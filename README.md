@@ -10,16 +10,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonamador&color=lightgray&style=for-the-badge" />
 
-I'm a last semester biomedical engineering student <a href="https://tec.mx/es">@Tec de Monterrey</a> with a deep passion for AI applications on medical signals processing.
+I'm am AI/ML engineer <a href="">@Bagó</a>, working on AI LLM Agents for Industry/Comercial applications. My formation was on Biomedical Engineering (BME) from <a href="https://tec.mx/es">@Tec de Monterrey</a>. I have a deep passion for AI applications on medical signals processing, specially processing of images such as MRI and OCT.
 
 ### Current Projects
-- LLM applications on psychometric evaluations
-- Computer vision for retinopathy severity classification
-- Anomaly detection for fetal MRI
+- LLM applications on Comercial Teams
+- MRI pre-processing pipelines integrating LLMs
+- Generative models (VAEs) for representation learning in MRI
 
 ### Currently learning...
-- Network Analysis
-- Cloud Computing
+- Cloud Computing and Infrastructure
+- Neuroscience
 
 <div align='center'>
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=simonamador&theme=tokyonight&langs_count=4&layout=compact" width="50%" >
