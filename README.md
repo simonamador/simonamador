@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonamador&color=lightgray&style=for-the-badge" />
 
-I'm am AI/ML engineer <a href="">@Bagó</a>, working on AI LLM Agents for Industry/Comercial applications. My formation was on Biomedical Engineering (BME) from <a href="https://tec.mx/es">@Tec de Monterrey</a>. I have a deep passion for AI applications on medical signals processing, specially processing of images such as MRI and OCT.
+I'm am AI/ML engineer <a href="https://www.bago.com.pe/">@Bagó</a>, working on AI LLM Agents for Industry/Comercial applications. My formation was on Biomedical Engineering (BME) from <a href="https://tec.mx/es">@Tec de Monterrey</a>. I have a deep passion for AI applications on medical signals processing, specially processing of images such as MRI and OCT.
 
 ### Current Projects
 - LLM applications on Comercial Teams
