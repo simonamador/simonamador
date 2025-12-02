@@ -20,7 +20,3 @@ I'm am AI/ML engineer <a href="https://www.bago.com.pe/">@Bagó</a>, working on 
 ### Currently learning...
 - Cloud Computing and Infrastructure
 - Neuroscience
-
-<div align='center'>
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=simonamador&theme=tokyonight&langs_count=4&layout=compact" width="50%" >
-</div>
