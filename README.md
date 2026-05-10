@@ -44,17 +44,14 @@ I am interested in graduate study (MSc/PhD), research collaborations, and startu
 
 ## Featured Projects
 
-### Enterprise LLM Agent Architecture *(coming soon)*
+### [Enterprise LLM Agent Architecture](https://github.com/simonamador/enterprise-llm-agent-architecture)
 A sanitized architecture case study of an enterprise multi-agent system built with Python, Flask, Oracle SQL, RAG, and commercial LLM APIs.
 
 ### [Anomaly Detection](https://github.com/simonamador/Anomaly-Detection)
 Deep generative normative modeling for fetal brain anomaly detection using MRI.
 
 ### [personalab](https://github.com/simonamador/personalab)
-An open-source Python toolkit for personal productivity, experimentation, and automation.
-
-### Satellite Super-Resolution *(coming soon)*
-Research on MRI and satellite image super-resolution using domain adaptation techniques.
+Production-grade synthetic identity infrastructure that enforces facial consistency using embeddings, geometric landmarks, and longitudinal drift tracking.
 
 ---
 
