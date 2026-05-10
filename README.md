@@ -1,22 +1,170 @@
-<h2 align='center'>
-👋 Hi there! I'm Simon Amador
-</h2>
+```markdown
+<h1 align="center">Simón Amador</h1>
+<h3 align="center">AI Tech Lead @ Bagó</h3>
 <p align="center">
-  <a href="https://simonamador.github.io/">Website</a> •
-  <a href="https://www.linkedin.com/in/carlos-simon-amador-izaguirre/">LinkedIn</a> •
-  <a href="https://twitter.com/samador0208">Twitter</a>
+  <strong>AI Engineer | Researcher | Builder</strong>
 </p>
 
+<p align="center">
+  Engineering trustworthy AI for clinical and enterprise applications.
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=simonamador&color=lightgray&style=for-the-badge" />
+<p align="center">
+  <a href="https://simonamador.com">Website</a> •
+  <a href="https://www.linkedin.com/in/simon-amador/">LinkedIn</a> •
+  <a href="https://scholar.google.com/citations?user=uiDl364AAAAJ">Google Scholar</a> •
+  <a href="https://github.com/simonamador">GitHub</a> •
+  <a href="https://x.com/samador0208">X/Twitter</a>
+</p>
 
-I'm am AI/ML engineer <a href="https://www.bago.com.pe/">@Bagó</a>, working on AI LLM Agents for Industry/Comercial applications. My formation was on Biomedical Engineering (BME) from <a href="https://tec.mx/es">@Tec de Monterrey</a>. I have a deep passion for AI applications on medical signals processing, specially processing of images such as MRI and OCT.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=simonamador&style=for-the-badge&color=lightgrey" alt="Profile views" />
+</p>
 
-### Current Projects
-- LLM applications on Comercial Teams
-- MRI pre-processing pipelines integrating LLMs
-- Generative models (VAEs) for representation learning in MRI
+---
 
-### Currently learning...
-- Cloud Computing and Infrastructure
-- Neuroscience
+## About Me
+
+I build AI systems at the intersection of healthcare, research, and product engineering.
+
+Currently, I lead the development of enterprise LLM agent systems at Bagó, where I work with a team of 3 engineers to design AI solutions used across pharmaceutical workflows. My research focuses on generative models and anomaly detection for fetal MRI, with work published in *NeuroImage* and presented at ISMRM, OHBM, and MIT-MGB AI Cures.
+
+I am interested in graduate study (MSc/PhD), research collaborations, and startup opportunities in health AI, biotechnology, and applied machine learning.
+
+---
+
+## Current Focus
+
+- Enterprise LLM agent systems for pharmaceutical workflows
+- Medical imaging AI (MRI, OCT, CT)
+- Generative models and anomaly detection
+- Clinical decision support systems
+- Trustworthy and interpretable AI
+
+---
+
+## Featured Projects
+
+### Enterprise LLM Agent Architecture *(coming soon)*
+A sanitized architecture case study of an enterprise multi-agent system built with Python, Flask, Oracle SQL, RAG, and commercial LLM APIs.
+
+### [Anomaly Detection](https://github.com/simonamador/Anomaly-Detection)
+Deep generative normative modeling for fetal brain anomaly detection using MRI.
+
+### [personalab](https://github.com/simonamador/personalab)
+An open-source Python toolkit for personal productivity, experimentation, and automation.
+
+### Satellite Super-Resolution *(coming soon)*
+Research on MRI and satellite image super-resolution using domain adaptation techniques.
+
+---
+
+## Publications
+
+### Journal Articles
+- **Conditional Deep Generative Normative Modeling for Fetal Brain Anomaly Detection**  
+  *NeuroImage*, 2025  
+  https://doi.org/10.1016/j.neuroimage.2025.121089
+
+### Conference Presentations
+- Conditional Deep Generative Normative Modeling for Structural and Developmental Anomaly Detection in the Fetal Brain  
+  ISMRM, 2025
+
+- Deep Generative Anomaly Detection for Structural Anomalies in Fetal Brain with Ventriculomegaly  
+  OHBM, 2024
+
+- Covariate-Conditioned Fetal MRI Anomaly Detection  
+  MIT-MGB AI Cures, 2024
+
+---
+
+## Technical Stack
+
+### Languages
+`Python` `SQL` `Bash`
+
+### Frameworks & Libraries
+`PyTorch` `Flask` `FastAPI` `scikit-learn`
+
+### Infrastructure
+`Docker` `REST APIs` `CI/CD` `Oracle SQL`
+
+### Machine Learning
+`LLMs` `RAG` `Generative Models` `Anomaly Detection`
+
+---
+
+## Research Interests
+
+- Medical Imaging
+- Foundation Models
+- Generative Modeling
+- Clinical AI
+- Trustworthy AI
+- Digital Health
+
+---
+
+## Leadership & Impact
+
+- Led a team of 3 engineers and interns
+- Built enterprise AI systems used by more than 120 internal users
+- Published peer-reviewed research in a leading neuroimaging journal
+- Bridging academic research and production engineering
+
+---
+
+## Currently Building
+
+- Enterprise LLM agent systems for pharmaceutical workflows
+- Open-source tooling for AI engineering
+- Research toward clinically impactful medical AI
+
+---
+
+## Open To
+
+- MSc and PhD opportunities
+- Research collaborations
+- Health AI startup roles
+- Applied machine learning leadership positions
+
+---
+
+## Beyond Work
+
+Outside of engineering and research, I enjoy:
+
+- Running
+- Strength training
+- Scientific writing
+- Technology strategy
+- Creating educational content about AI
+
+---
+
+## Selected Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=simonamador&show_icons=true&hide_border=true" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simonamador&hide_border=true" alt="GitHub streak" />
+</p>
+
+---
+
+## Contact
+
+- Website: https://simonamador.com
+- Email: samador0208@gmail.com
+- LinkedIn: https://www.linkedin.com/in/simon-amador/
+- Google Scholar: https://scholar.google.com/citations?user=uiDl364AAAAJ
+
+---
+
+<p align="center">
+  <i>Building AI systems that translate research into real-world impact.</i>
+</p>
+```
