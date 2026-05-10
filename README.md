@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Simón Amador</h1>
 <h3 align="center">AI Tech Lead @ Bagó</h3>
 <p align="center">
@@ -167,4 +166,3 @@ Outside of engineering and research, I enjoy:
 <p align="center">
   <i>Building AI systems that translate research into real-world impact.</i>
 </p>
-```
